@@ -2,7 +2,7 @@ header {
     padding: 2em;
     background-color: skyblue; margin-top: 2em;
     text-align: center;
-    color: rgb(0, 56, 139);
+    color: darkblue;
 
 }
 .quote {
@@ -17,10 +17,10 @@ header {
     width: 45em;
 }
 .new-quote-button {
-    background-color: dark blue);
-    border-color: rgb(0, 123, 255);
+    background-color: lightseagreen;
+    border-color: lightslategray;
 }
 #button:hover {
-    background-color: rgb(0, 83, 128);
+    background-color: rgb(119, 153, 145);
 }
 
